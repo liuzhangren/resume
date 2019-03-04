@@ -54,7 +54,7 @@ GitHub:  https://github.com/liuzhangren
 
   <span style="color: #aaa">前端开发工程师 	         <span style="color: #aaa">2017 07 ～ 2018 12 </span></span>
 
-  参与租房管理系统的开发(前端)
+#### 参与租房管理系统的开发(前端)
 
   展示地址: http://fangguan.jsbz365.com:3088/
 
@@ -74,7 +74,7 @@ GitHub:  https://github.com/liuzhangren
 
 
 
-  参与租房管理系统的开发 (后端 user模块)
+#### 参与租房管理系统的开发 (后端 user模块)
 
   开发user相关的功能模块
 
@@ -86,7 +86,7 @@ GitHub:  https://github.com/liuzhangren
 
 
 
-  参与租房管理系统的开发 (后端 business模块)
+#### 参与租房管理系统的开发 (后端 business模块)
 
   开发需求相关对象(business)的功能模块
 
@@ -96,7 +96,7 @@ GitHub:  https://github.com/liuzhangren
 
   - 使用技术栈: ES6; coffeeScript; microjs ; base64 ; nodejs
 
-  游戏类库pixi实现工具栏 建模demo
+#### 游戏类库pixi实现工具栏 建模demo
 
   实现侧边栏里的组件拖拽至content区域 生成组件、浮出选项、取消组件渲染、建模组件连线等功能
 

@@ -16,17 +16,23 @@ GitHub:  https://github.com/liuzhangren
 
 > 熟悉HTML/CSS，了解经典的网页布局开发，能使用其解决移动端适配问题；
 
-> 了解DOM，熟悉原生JavaScript，掌握JS概念。例如：原型链，闭包，继承等，有ES6使用经验；
+> 了解DOM，熟悉原生JavaScript，掌握JS概念。熟悉ES6开发；
 
 > 了解前后端联合开发的技术原理：Ajax, Json，axios；
 
 > 使用过CSS预处理器SASS；pug、stylus 等预编html、css;
 
-> 熟悉gulp和webpack打包工具；
+> 熟悉gulp、webpack、rollup等打包构建工具；
 
 > 了解网络基础知识，了解前端性能优化策略；
 
 > 熟练使用react+redux+antd, 封装过底层组件;
+
+> 熟练使用dva or umi 开发react项目，有过大型互联网React项目开发经验;
+
+> 熟悉React-Native，能迅速开发移动端应用;
+
+> 熟悉Taro 能快速开发小程序；
 
 > 熟练使用nodejs，熟悉micro+leanCloud编写后端接口,熟悉koa2、express;
 
@@ -49,6 +55,36 @@ GitHub:  https://github.com/liuzhangren
 > 遇到新技术会边学边写demo 推送github；
 
 ## 工作经历
+- ### 合创迪安(深圳)科技有限公司
+  <span style="color: #aaa">前端开发工程师 	         <span style="color: #aaa">2019 03 ～ 至今 </span></span>
+
+#### 灵犀平台(PC) (前端)
+
+  展示地址: https://lingxi.di-an.com
+
+  基于流程控制的团队协作OA系统
+
+  - 参与灵犀平台的流程控制管理模块的开发
+
+  - dva + react + antd 构建视图，封装了step流程步骤控制组件，包含增删改查 表单功能，表单收集在redux层中完成。
+
+  - 完成流程控制功能
+
+  - 遇到的问题: 逻辑复杂 表单的收集、清空、编辑、删除一环节点需要在redux层中做，导致了工作量太大，花了大量的时间考虑组件的封装，逻辑的分层。
+
+  - 使用技术栈:  ES6、React、node.js、Redux、dva、antd；
+  
+#### 灵犀平台小程序(前端)
+
+  基于流程控制的团队协作OA系统小程序移植版
+
+  - 参与灵犀平台的流聊天协作模块的开发
+
+  - Taro 构建视图，复用网易云信的聊天界面对接功能
+
+  - 遇到的问题: 复用性不强 需要自己去改动原有库
+
+  - 使用技术栈:  ES6, wxml, wxss, Taro, json；
 
 - ### 举手帮租(武汉)酒店公寓管理有限公司 
 

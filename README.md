@@ -34,13 +34,17 @@ GitHub:  https://github.com/liuzhangren
 
 > 熟悉Taro 能快速开发小程序；
 
-> 熟练使用nodejs，熟悉micro+leanCloud编写后端接口,熟悉koa2、express;
+> 熟练使用nodejs，熟悉micro+leanCloud编写后端接口,熟悉koa2、express、熟悉prisma+mongodb开发后端接口;
+
+> 熟悉微信小程序微服务编写中间层sdk;
 
 > 熟练使用git、遵循git flow工作流程、习惯单元测试;
 
 > 熟悉 lerna包管理 工具、npm 推送封装库;
 
 > 熟悉pixi webGL框架 编写类游戏canvas应用;
+
+> 熟悉TypeScript;
 
 > 熟悉使用jsonwebtoken， 利用cookie进行存储、鉴权;
 
@@ -55,8 +59,56 @@ GitHub:  https://github.com/liuzhangren
 > 遇到新技术会边学边写demo 推送github；
 
 ## 工作经历
-- ### 合创迪安(深圳)科技有限公司
-  <span style="color: #aaa">前端开发工程师 	         <span style="color: #aaa">2019 03 ～ 至今 </span></span>
+- ### 绿咖大数据(武汉)科技有限公司
+  <span style="color: #aaa">系统研发工程师 	         <span style="color: #aaa">2019 07 ～ 至今 </span></span>
+
+#### MDR(PC) (前端)
+- ### 绿咖大数据(武汉)科技有限公司
+  展示地址: https://www.marinedigitalrepublic.com
+
+  基于船舶的虚拟区块链官网
+
+  - 负责所有页面的开发
+
+  - 完成所有功能
+
+  - 使用技术栈:  react、redux、axios、es6、webpack、gulp、react-intl
+
+#### UNNiTEA(小程序) (前端、后端)
+- ### 绿咖大数据(武汉)科技有限公司
+  展示地址: UNNiTEA小程序
+
+  营销裂变小程序含商城、支付
+
+  - 负责所有页面的开发
+
+  - 完成所有功能，包括支付、商城
+
+  - 使用技术栈:  Taro、es6、Taro-Ui、nodejs、prisma、mongodb、sqlite
+
+#### UNNiTEA(后台管理) (前端、后端)
+- ### 绿咖大数据(武汉)科技有限公司
+  展示地址: https://uunitea.tifoo.top/
+
+  营销裂变小程序的后台管理平台
+
+  - 负责所有页面的开发
+
+  - 完成所有功能
+
+  - 使用技术栈:  umi、antd、dva、es6、nodejs、prisma、mongodb、sqlite
+
+#### EstateAggency(小程序) (前端、后端)
+- ### 绿咖大数据(武汉)科技有限公司
+  展示地址: EstateAgency小程序
+
+  地产公司的评分、接单、推单管理工具
+
+  - 负责所有页面的开发
+
+  - 完成所有功能
+
+  - 使用技术栈:  Taro、es6、Taro-Ui、nodejs、prisma、mongodb、sqlite
 
 #### 灵犀平台(PC) (前端)
 

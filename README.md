@@ -34,11 +34,15 @@ GitHub:  https://github.com/liuzhangren
 
 > 熟悉Taro 能快速开发小程序；
 
-> 熟练使用nodejs，熟悉micro+leanCloud编写后端接口,熟悉koa2、express、熟悉prisma+mongodb开发后端接口;
+> 熟练使用nodejs，熟悉koa2、express、 micro、熟悉prisma+mongodb开发后端接口;
 
 > 熟悉微信小程序微服务编写中间层sdk;
 
-> 熟练使用git、遵循git flow工作流程、习惯单元测试;
+> 熟悉websocket即时通讯
+
+> 熟悉antv、echarts、openlayers等图表、地图插件
+
+> 熟练使用git、遵循git flow工作流程;
 
 > 熟悉 lerna包管理 工具、npm 推送封装库;
 
@@ -59,8 +63,39 @@ GitHub:  https://github.com/liuzhangren
 > 遇到新技术会边学边写demo 推送github；
 
 ## 工作经历
+- ### 云峰核信（武汉）股份有限公司
+  <span style="color: #aaa">前端开发工程师 	         <span style="color: #aaa">2020 01 ～ 至今 </span></span>
+
+#### 405生产管理支持平台(前端)
+  中国核电旗下陕西铀矿405所的生产管理支持平台
+
+  - 负责前端项目的构建
+
+  - 负责前端应用技术的调研
+
+  - 负责团队的代码管理
+
+  - 使用技术栈: React、redux、dva、es6、rollup、storybook、antd、antv、websocket、echart、openlayers；
+
+  - 所遇问题: 
+    - 组件库外提封装打包支持css-modules、global，lernajs支持批量操作以及脚本集成
+    解决方案： 翻看文档
+
+    - 动态换肤功能
+    解决方案: 使用css的var()函数读取缓存中的变量 达到切换主题的效果；
+    
+    - 自定义流程功能，手写流程图兼容activity流程引擎框架，数据结构对不上需要转换
+    解决方案: 递归算法；
+
+    - 批量展示的table、tree、list的数据量需要达到10000+条，antd的表格组件、组件状态切换卡顿；
+    解决方案：使用react-virtualize 做新的支持虚拟滚动的table组件；
+
+  - 参与业务:
+
+    - 设备变动模块
+
 - ### 绿咖大数据(武汉)科技有限公司
-  <span style="color: #aaa">系统研发工程师 	         <span style="color: #aaa">2019 07 ～ 至今 </span></span>
+  <span style="color: #aaa">系统研发工程师 	         <span style="color: #aaa">2019 07 ～ 2019 12 </span></span>
 
 #### MDR(PC) (前端)
 - ### 绿咖大数据(武汉)科技有限公司

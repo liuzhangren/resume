@@ -177,59 +177,59 @@ GitHub:  https://github.com/liuzhangren
 
   <span style="color: #aaa">前端开发工程师 	         <span style="color: #aaa">2017 07 ～ 2018 12 </span></span>
 
-#### 参与租房管理系统的开发(前端)
+  #### 参与租房管理系统的开发(前端)
 
-  展示地址: http://fangguan.jsbz365.com:3088/
+    展示地址: http://fangguan.jsbz365.com:3088/
 
-  搭建 wrapper组件层、view视图层、page数据层、umi发布环境
+    搭建 wrapper组件层、view视图层、page数据层、umi发布环境
 
-  - 参与了系统平台的 人员管理、渠道管理、工单管理模块的页面构建
+    - 参与了系统平台的 人员管理、渠道管理、工单管理模块的页面构建
 
-  - react+redux+antd 构建视图 按需求在周期中撰逻辑
+    - react+redux+antd 构建视图 按需求在周期中撰逻辑
 
-  - 按需求对接业务逻辑，并且抽象周期中的逻辑代码 已迭代15个版本
+    - 按需求对接业务逻辑，并且抽象周期中的逻辑代码 已迭代15个版本
 
-  - 并且完成了中间件 user-sdk、 business-sdk、 lock-sdk 将后端返回统一格式塞进store并
+    - 并且完成了中间件 user-sdk、 business-sdk、 lock-sdk 将后端返回统一格式塞进store并
 
-  - connet ReactComponents 进行数据交互
+    - connet ReactComponents 进行数据交互
 
-  - 使用技术栈：ES6; coffeeScript；React；node.js；Redux ; antd; gulp; webpack; umi
-
-
-
-#### 参与租房管理系统的开发 (后端 user模块)
-
-  开发user相关的功能模块
-
-  - 完成了系统管理员角色、渠道用户角色、渠道用户名下员工等角色，以及登陆分发token
-
-  - 鉴权功能，以及基础的crud
-
-  - 使用技术栈: ES6; coffeeScript; nodejs ; microjs; jwt ; base64
+    - 使用技术栈：ES6; coffeeScript；React；node.js；Redux ; antd; gulp; webpack; umi
 
 
 
-#### 参与租房管理系统的开发 (后端 business模块)
+  #### 参与租房管理系统的开发 (后端 user模块)
 
-  开发需求相关对象(business)的功能模块
+    开发user相关的功能模块
 
-  - 完成了N+1个对象的crud和getby功能, 并抽象核心crud代码成库，可复用，
+    - 完成了系统管理员角色、渠道用户角色、渠道用户名下员工等角色，以及登陆分发token
 
-  - 组织私有 npm上可查 https://www.npmjs.com/package/cfx.service.baseapi
+    - 鉴权功能，以及基础的crud
 
-  - 使用技术栈: ES6; coffeeScript; microjs ; base64 ; nodejs
+    - 使用技术栈: ES6; coffeeScript; nodejs ; microjs; jwt ; base64
 
-#### 游戏类库pixi实现工具栏 建模demo
 
-  实现侧边栏里的组件拖拽至content区域 生成组件、浮出选项、取消组件渲染、建模组件连线等功能
 
-  - github: https://github.com/liuzhangren/cfx.pixi.git
+  #### 参与租房管理系统的开发 (后端 business模块)
 
-  - 遇到的难点: 1.监听每一帧的函数没法控制；2.纯英文文档，线上资料很少
+    开发需求相关对象(business)的功能模块
 
-  - 解决方法: 1.promise嵌套 先执行A 后执行B 2.翻阅源码 搜索对应对象的test
+    - 完成了N+1个对象的crud和getby功能, 并抽象核心crud代码成库，可复用，
 
-  - 使用技术栈: ES6; coffeeScript; pixi; webpack; nodejs
+    - 组织私有 npm上可查 https://www.npmjs.com/package/cfx.service.baseapi
+
+    - 使用技术栈: ES6; coffeeScript; microjs ; base64 ; nodejs
+
+  #### 游戏类库pixi实现工具栏 建模demo
+
+    实现侧边栏里的组件拖拽至content区域 生成组件、浮出选项、取消组件渲染、建模组件连线等功能
+
+    - github: https://github.com/liuzhangren/cfx.pixi.git
+
+    - 遇到的难点: 1.监听每一帧的函数没法控制；2.纯英文文档，线上资料很少
+
+    - 解决方法: 1.promise嵌套 先执行A 后执行B 2.翻阅源码 搜索对应对象的test
+
+    - 使用技术栈: ES6; coffeeScript; pixi; webpack; nodejs
 
 
 ### 上海美库尔商务服务咨询有限公司 / 系统研发 

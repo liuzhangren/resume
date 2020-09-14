@@ -97,81 +97,81 @@ GitHub:  https://github.com/liuzhangren
 - ### 绿咖大数据(武汉)科技有限公司
   <span style="color: #aaa">系统研发工程师 	         <span style="color: #aaa">2019 07 ～ 2019 12 </span></span>
 
-#### MDR(PC) (前端)
-- ### 绿咖大数据(武汉)科技有限公司
-  展示地址: https://www.marinedigitalrepublic.com
+  #### MDR(PC) (前端)
+  - ### 绿咖大数据(武汉)科技有限公司
+    展示地址: https://www.marinedigitalrepublic.com
 
-  基于船舶的虚拟区块链官网
+    基于船舶的虚拟区块链官网
 
-  - 负责所有页面的开发
+    - 负责所有页面的开发
 
-  - 完成所有功能
+    - 完成所有功能
 
-  - 使用技术栈:  react、redux、axios、es6、webpack、gulp、react-intl
+    - 使用技术栈:  react、redux、axios、es6、webpack、gulp、react-intl
 
-#### UNNiTEA(小程序) (前端、后端)
-- ### 绿咖大数据(武汉)科技有限公司
-  展示地址: UNNiTEA小程序
+  #### UNNiTEA(小程序) (前端、后端)
+  - ### 绿咖大数据(武汉)科技有限公司
+    展示地址: UNNiTEA小程序
 
-  营销裂变小程序含商城、支付
+    营销裂变小程序含商城、支付
 
-  - 负责所有页面的开发
+    - 负责所有页面的开发
 
-  - 完成所有功能，包括支付、商城
+    - 完成所有功能，包括支付、商城
 
-  - 使用技术栈:  Taro、es6、Taro-Ui、nodejs、prisma、mongodb、sqlite
+    - 使用技术栈:  Taro、es6、Taro-Ui、nodejs、prisma、mongodb、sqlite
 
-#### UNNiTEA(后台管理) (前端、后端)
-- ### 绿咖大数据(武汉)科技有限公司
-  展示地址: https://uunitea.tifoo.top/
+  #### UNNiTEA(后台管理) (前端、后端)
+  - ### 绿咖大数据(武汉)科技有限公司
+    展示地址: https://uunitea.tifoo.top/
 
-  营销裂变小程序的后台管理平台
+    营销裂变小程序的后台管理平台
 
-  - 负责所有页面的开发
+    - 负责所有页面的开发
 
-  - 完成所有功能
+    - 完成所有功能
 
-  - 使用技术栈:  umi、antd、dva、es6、nodejs、prisma、mongodb、sqlite
+    - 使用技术栈:  umi、antd、dva、es6、nodejs、prisma、mongodb、sqlite
 
-#### EstateAggency(小程序) (前端、后端)
-- ### 绿咖大数据(武汉)科技有限公司
-  展示地址: EstateAgency小程序
+  #### EstateAggency(小程序) (前端、后端)
+  - ### 绿咖大数据(武汉)科技有限公司
+    展示地址: EstateAgency小程序
 
-  地产公司的评分、接单、推单管理工具
+    地产公司的评分、接单、推单管理工具
 
-  - 负责所有页面的开发
+    - 负责所有页面的开发
 
-  - 完成所有功能
+    - 完成所有功能
 
-  - 使用技术栈:  Taro、es6、Taro-Ui、nodejs、prisma、mongodb、sqlite
+    - 使用技术栈:  Taro、es6、Taro-Ui、nodejs、prisma、mongodb、sqlite
 
-#### 灵犀平台(PC) (前端)
+  #### 灵犀平台(PC) (前端)
 
-  展示地址: https://lingxi.di-an.com
+    展示地址: https://lingxi.di-an.com
 
-  基于流程控制的团队协作OA系统
+    基于流程控制的团队协作OA系统
 
-  - 参与灵犀平台的流程控制管理模块的开发
+    - 参与灵犀平台的流程控制管理模块的开发
 
-  - dva + react + antd 构建视图，封装了step流程步骤控制组件，包含增删改查 表单功能，表单收集在redux层中完成。
+    - dva + react + antd 构建视图，封装了step流程步骤控制组件，包含增删改查 表单功能，表单收集在redux层中完成。
 
-  - 完成流程控制功能
+    - 完成流程控制功能
 
-  - 遇到的问题: 逻辑复杂 表单的收集、清空、编辑、删除一环节点需要在redux层中做，导致了工作量太大，花了大量的时间考虑组件的封装，逻辑的分层。
+    - 遇到的问题: 逻辑复杂 表单的收集、清空、编辑、删除一环节点需要在redux层中做，导致了工作量太大，花了大量的时间考虑组件的封装，逻辑的分层。
 
-  - 使用技术栈:  ES6、React、node.js、Redux、dva、antd；
-  
-#### 灵犀平台小程序(前端)
+    - 使用技术栈:  ES6、React、node.js、Redux、dva、antd；
+    
+  #### 灵犀平台小程序(前端)
 
-  基于流程控制的团队协作OA系统小程序移植版
+    基于流程控制的团队协作OA系统小程序移植版
 
-  - 参与灵犀平台的流聊天协作模块的开发
+    - 参与灵犀平台的流聊天协作模块的开发
 
-  - Taro 构建视图，复用网易云信的聊天界面对接功能
+    - Taro 构建视图，复用网易云信的聊天界面对接功能
 
-  - 遇到的问题: 复用性不强 需要自己去改动原有库
+    - 遇到的问题: 复用性不强 需要自己去改动原有库
 
-  - 使用技术栈:  ES6, wxml, wxss, Taro, json；
+    - 使用技术栈:  ES6, wxml, wxss, Taro, json；
 
 - ### 举手帮租(武汉)酒店公寓管理有限公司 
 

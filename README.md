@@ -232,40 +232,5 @@ GitHub:  https://github.com/liuzhangren
     - 使用技术栈: ES6; coffeeScript; pixi; webpack; nodejs
 
 
-### 上海美库尔商务服务咨询有限公司 / 系统研发 
-
-  <span style="color: #aaa">前端开发工程师</span>		<span style="color: #aaa">2016 09 ～ 2017 05</span>
-
-  - 参与支付宝小程序的开发
-
-  负责支付宝小程序的页面编写；
-
-  使用技术：HTML；CSS；WXSS ; WXML ; JS ;ajax
-
-  - 游心旅游网 
-
-  熟悉基本DOM操作以及CSS，通过获取鼠标移动的位置来改变眼睛转动的角度。
-
-  http://uthing.cn
-
-  js jq操作dom, ajax对接接口 ，json存储数据，
-
-  完成整体页面布局以及样式
-
-  - **微信小程序查询列车余票** 
-
-  参考微信开发者文档，编写页面并用ajax获取查询余票的api反馈到页面之上 
-
-  利用微信的开发者工具制作页面 
-
-  - **个人简历响应式版** 
-
-  bootstrap响应式布局，移动pc双适应 
-
-  前端部分的布局 
-
-  项目链接: http://webfontlzr.cn 
-
-
 ## 自我评价
   技术宅、苹果重度患者、自信乐观、适应性强、抗压. 努力朝架构方向发展！

@@ -2,7 +2,7 @@
 
 姓名： 刘章仁 	
 
-工作经验：4年
+工作经验：5年
 
 Tel： 18986700600
 
@@ -14,45 +14,23 @@ GitHub:  https://github.com/liuzhangren
 
 ## 技能描述
 
-> 熟悉HTML/CSS，了解经典的网页布局开发，能使用其解决移动端适配问题；
+> 熟悉HTML/CSS/JS，了解经典的网页布局开发，能使用其解决各端问题；
 
-> 了解DOM，熟悉原生JavaScript，掌握JS概念。熟悉ES6开发；
+> 熟练掌握CoffeeScript、ES6进行开发，熟悉TypeScript；
 
-> 了解前后端联合开发的技术原理：Ajax, Json，axios；
+> 了解前后端联合开发的技术原理：Ajax, Json，Axios，Restful等等；
 
-> 使用过CSS预处理器SASS；pug、stylus 等预编html、css;
-
-> 熟悉gulp、webpack、rollup等打包构建工具；
+> 熟悉Gulp、Webpack、Rollup等打包构建工具；
 
 > 了解网络基础知识，了解前端性能优化策略；
 
-> 熟练使用react+redux+antd, 封装过底层组件;
+> 熟练掌握React相关开发生态；如 Redux、Antd、Taro、ReactNative等等；
 
-> 熟练使用dva or umi 开发react项目，有过大型互联网React项目开发经验;
+> 熟悉Vue相关开发生态；如 Vuex、UniApp、ElementUI等等；
 
-> 熟悉React-Native，能迅速开发移动端应用;
+> 熟悉Nodejs相关生态；如 Micro、Express、Prisma2等等；
 
-> 熟悉Taro 能快速开发小程序；
-
-> 熟练使用nodejs，熟悉koa2、express、 micro、熟悉prisma+mongodb开发后端接口;
-
-> 熟悉微信小程序微服务编写中间层sdk;
-
-> 熟悉websocket即时通讯
-
-> 熟悉antv、echarts、openlayers等图表、地图插件
-
-> 熟练使用git、遵循git flow工作流程;
-
-> 熟悉 lerna包管理 工具、npm 推送封装库;
-
-> 熟悉pixi webGL框架 编写类游戏canvas应用;
-
-> 熟悉TypeScript;
-
-> 熟悉使用jsonwebtoken， 利用cookie进行存储、鉴权;
-
-> 熟悉docker容器，以及汇编shell脚本，自配mac pro;
+> 熟悉Docker容器，Linux、以及shell脚本;
 
 ## 其他
 
@@ -60,19 +38,20 @@ GitHub:  https://github.com/liuzhangren
 
 > 有自己的学习方式，会使用官方文档，MDN，Google来学习前端知识；
 
-> 遇到新技术会边学边写demo 推送github；
+> 遇到新技术会涌现额外的热情；
 
 ## 工作经历
+> 202
 
-> 2020.01 ~ 至今 云峰核信（武汉）股份有限公司
+> 2020.01 ~ 2021.04 云峰核信（武汉）股份有限公司
 
 > 2017.09 ~ 2019.12 举手帮租（武汉）有限公司
 
 ## 项目经验
   #### 405生产管理支持平台(前端)
-  <span style="color: black">项目周期: 2020 01 ～ 至今</span>
+  <span style="color: black">项目周期: 2020 01 ～ 2021.04</span>
 
-​  中国核电旗下陕西铀矿405所的生产管理支持平台 
+  中国核电旗下陕西铀矿405所的生产管理支持平台 
 
     - 负责前端项目的构建
     
@@ -114,7 +93,7 @@ GitHub:  https://github.com/liuzhangren
     - 使用技术栈:  react、redux、axios、es6、webpack、gulp、react-intl、echarts、express、nodejs
 
   #### 灵犀平台(PC) (前端)
-  <span style="color: black">项目周期: 2018 07 ～ 2019 01</span>
+  <span style="color: black">项目周期: 2018 07 ～ 2019 02</span>
   展示地址: https://lingxi.di-an.com
 
     基于流程控制的团队协作OA系统
@@ -128,48 +107,56 @@ GitHub:  https://github.com/liuzhangren
     - 遇到的问题: 逻辑复杂 表单的收集、清空、编辑、删除一环节点需要在redux层中做，导致了工作量太大，花了大量的时间考虑组件的封装，逻辑的分层。
     
     - 使用技术栈:  ES6、React、node.js、Redux、dva、antd；
+
   #### 参与租房管理系统的开发(前端)
    <span style="color: black">项目周期: 2017 09 ～ 2018 07</span>
-   展示地址: http://fangguan.jsbz365.com:3088/
 
-    搭建 wrapper组件层、view视图层、page数据层、umi发布环境
-    
-    - 参与了系统平台的 人员管理、渠道管理、工单管理模块的页面构建
-    
-    - react+redux+antd 构建视图 按需求在周期中撰逻辑
-    
-    - 按需求对接业务逻辑，并且抽象周期中的逻辑代码 已迭代15个版本
-    
-    - 并且完成了中间件 user-sdk、 business-sdk、 lock-sdk 将后端返回统一格式塞进store并
-    
-    - connet ReactComponents 进行数据交互
-    
-    - 使用技术栈：ES6; coffeeScript；React；node.js；Redux ; antd; gulp; webpack; umi
+- 搭建 wrapper组件层、view业务层、page数据层、Umi生产环境；
+- 参与了系统平台的 人员管理、渠道管理、工单管理模块的开发；
 
+    - 项目亮点
+    	- Wrapper组件层
+        1. 针对antd二次封装组件
+        2. 使用StoryBook-React作为组件层的Cli
+        3. 使用Rollup打包用于View
+      - View业务组件层
+        1. 封装携带业务场景的业务组件
+        2. 同样使用StoryBook作为Cli
+        3. 使用Rollup打包用于Page层
+      - Page层数据结合视图
+        1. 接入请求与服务端交互
+        2. 使用Umi作为Cli
+        3. 使用Rollup打包用于Prod生产层
+      - Prod生产层
+        1. 引入Page层的组件，拼装成完整的页面
+        
+     - 项目难点
+    
+    - 使用技术栈：ES6; CoffeeScript；React；Redux ; antd; gulp; webpack; Umi；StoryBook
 
-
-  #### 参与租房管理系统的开发 (后端 user模块)
+  #### 参与租房管理系统的开发 (服务端)
   <span style="color: black">项目周期: 2017 09 ～ 2018 07</span>
-  开发user相关的功能模块
 
-    - 完成了系统管理员角色、渠道用户角色、渠道用户名下员工等角色，以及登陆分发token
+- 开发需求相关的user、business、lock等微服务；
+
+    - user模块
+    	- 针对用户的相关行为的微服务；
     
-    - 鉴权功能，以及基础的crud
+    - business模块
+    	- 针对业务场景的微服务
     
-    - 使用技术栈: ES6; coffeeScript; nodejs ; microjs; jwt ; base64
-
-
-
-  #### 参与租房管理系统的开发 (后端 business模块)
-  <span style="color: black">项目周期: 2017 09 ～ 2018 07</span>
-  开发需求相关对象(business)的功能模块
-
-    - 完成了N+1个对象的crud和getby功能, 并抽象核心crud代码成库，可复用，
+    - lock模块
+    	- 针对智能门锁的微服务
     
-    - 组织私有 npm上可查 https://www.npmjs.com/package/cfx.service.baseapi
+    - 项目亮点
+    	- 基于CoffeeScript、Microjs的Restful风格的服务抽象化
+    		-	npm地址：https://www.npmjs.com/package/cfx.service.baseapi
+    		
+    - 项目难点
+    	- Docker初体验
     
-    - 使用技术栈: ES6; coffeeScript; microjs ; base64 ; nodejs
+    - 使用技术栈: ES6; coffeeScript； microjs； base64； nodejs；leancloud；
 
 
 ## 自我评价
-  技术宅、苹果重度患者、自信乐观、适应性强、抗压. 努力朝架构方向发展！
+  技术宅、苹果重度患者、自信乐观、适应性强、抗压！

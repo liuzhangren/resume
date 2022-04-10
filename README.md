@@ -41,121 +41,232 @@ GitHub:  https://github.com/liuzhangren
 > 遇到新技术会涌现额外的热情；
 
 ## 工作经历
-> 202
+> 2021.06 ~2022.04  清北道远信息科技有限公司
 
 > 2020.01 ~ 2021.04 云峰核信（武汉）股份有限公司
 
 > 2017.09 ~ 2019.12 举手帮租（武汉）有限公司
 
 ## 项目经验
-  #### 405生产管理支持平台(前端)
-  <span style="color: black">项目周期: 2020 01 ～ 2021.04</span>
 
-  中国核电旗下陕西铀矿405所的生产管理支持平台 
-
-    - 负责前端项目的构建
-    
-    - 负责前端应用技术的调研
-    
-    - 负责团队的代码管理
-    
-    - 使用技术栈: React、redux、dva、es6、rollup、storybook、antd、antv、websocket、echart、openlayers；
-    
-    - 所遇问题: 
-      - 组件库外提封装打包支持css-modules、global，lernajs支持批量操作以及脚本集成
-      解决方案： 翻看文档
-    
-      - 动态换肤功能
-      解决方案: 使用css的var()函数读取缓存中的变量 达到切换主题的效果；
-      
-      - 自定义流程功能，手写流程图兼容activity流程引擎框架，数据结构对不上需要转换
-      解决方案: 递归算法；
-    
-      - 批量展示的table、tree、list的数据量需要达到10000+条，antd的表格组件、组件状态切换卡顿；
-      解决方案：使用react-virtualize 做新的支持虚拟滚动的table组件；
-    
-    - 参与业务:
-    
-      - 设备变动模块
+  <h4>清北道远相关产品</h4>
 
 
-  #### MDR(PC) (前端)
+  - 清北道远题库App (各大应用市场)
+  - 清北道远视频书App (各大应用市场)
+  - 道远刷题H5 (地址：https://www.daoyuanketang.com/practice [手机])
+  - 主站PC (地址： https://www.daoyuanketang.com/practice [pc])
 
-  <span style="color: black">项目周期: 2019 01 ～ 2019 11</span>
-  展示地址: https://www.marinedigitalrepublic.com
+  <h5>项目周期:</h5>
 
-    基于船舶的虚拟区块链官网
-    
-    - 负责所有页面的开发
-    
-    - 完成所有功能
-    
-    - 使用技术栈:  react、redux、axios、es6、webpack、gulp、react-intl、echarts、express、nodejs
+  - 2021.06 ~2022.04
 
-  #### 灵犀平台(PC) (前端)
-  <span style="color: black">项目周期: 2018 07 ～ 2019 02</span>
-  展示地址: https://lingxi.di-an.com
+  <h5>项目描述：</h5>
 
-    基于流程控制的团队协作OA系统
-    
-    - 参与灵犀平台的流程控制管理模块的开发
-    
-    - dva + react + antd 构建视图，封装了step流程步骤控制组件，包含增删改查 表单功能，表单收集在redux层中完成。
-    
-    - 完成流程控制功能
-    
-    - 遇到的问题: 逻辑复杂 表单的收集、清空、编辑、删除一环节点需要在redux层中做，导致了工作量太大，花了大量的时间考虑组件的封装，逻辑的分层。
-    
-    - 使用技术栈:  ES6、React、node.js、Redux、dva、antd；
+  - 围绕高考刷题为主的一些列产品
 
-  #### 参与租房管理系统的开发(前端)
-   <span style="color: black">项目周期: 2017 09 ～ 2018 07</span>
+  <h5>主要任务：</h5>
 
-- 搭建 wrapper组件层、view业务层、page数据层、Umi生产环境；
-- 参与了系统平台的 人员管理、渠道管理、工单管理模块的开发；
+  - 负责移动端的技术攻关
+  - 负责基于uniapp开发的复杂组件的组件化
+  - 参与各个项目的维护、迭代、开发
+  - 负责App的双端（IOS、Andriod）发布
 
-    - 项目亮点
-    	- Wrapper组件层
-        1. 针对antd二次封装组件
-        2. 使用StoryBook-React作为组件层的Cli
-        3. 使用Rollup打包用于View
-      - View业务组件层
-        1. 封装携带业务场景的业务组件
-        2. 同样使用StoryBook作为Cli
-        3. 使用Rollup打包用于Page层
-      - Page层数据结合视图
-        1. 接入请求与服务端交互
-        2. 使用Umi作为Cli
-        3. 使用Rollup打包用于Prod生产层
-      - Prod生产层
-        1. 引入Page层的组件，拼装成完整的页面
-        
-     - 项目难点
+  <h5>项目亮点：</h5>
+
+  - 基于uni封装了项目中最为复杂的做题模块组件；
+
+  - 公式渲染MathJax由web-view渲染改为uni渲染提高了性能；
+
+  - app热更新发布的可控方案，对阿里云的云函数进行封装，用pr的形式代替个人更改，减少发布事故;
+
+  - 日活2W+；
+
+  <h5>项目难点：</h5>
+
+  - 做题模块的基础组件、业务组件封装；
+
+  - 移动端兼容性问题，如：IOS的0.5px问题，web-view中video的劫持问题、原生控件层级问题等等；
+
+  - 性能优化；
+
+  - 权限的业务组件内部封装；
+
+  - Mpaas-scan扫码插件的迭代更新导致的bug;
+
+  - 主站PC的历史代码兼容问题；
+
+  <h5>使用技术栈:</h5>
+
+  - Vue、UniApp、ElementUI、ES6、Mpaas-scan；
+
     
-    - 使用技术栈：ES6; CoffeeScript；React；Redux ; antd; gulp; webpack; Umi；StoryBook
 
-  #### 参与租房管理系统的开发 (服务端)
-  <span style="color: black">项目周期: 2017 09 ～ 2018 07</span>
+
+#### 405生产管理支持平台(前端)
+
+  <h5>项目周期: </h5>
+
+-  2020 01 ～ 2021.04
+
+<h5>项目描述:</h5>
+
+- 中国核电旗下陕西铀矿405所的生产管理支持平台 
+
+<h5>主要任务：</h5>
+
+- 负责前端项目的构建
+- 负责前端应用技术的调研
+- 负责团队的代码管理
+- 业务部分的设备变动模块
+- 业务组件的封装
+
+<h5>项目亮点:</h5>
+
+- 封装React通用业务组件模板，数据请求在组件内部处理，只通过url驱动数据交互，提升了开发效率以及稳定样式统一
+- 手写流程图兼容activity流程引擎框架，数据结构对不上需要转换
+- 动态换肤功能（使用css的var()函数读取缓存中的变量 达到切换主题的效果）
+
+<h5>项目难点：</h5>
+
+- 组件库外提封装打包支持css-modules、global，lernajs支持批量操作以及脚本集成
+- 调研React-Virtualize 做新的支持虚拟滚动的table组件；
+- IE浏览器的支持
+- IE浏览器上性能优化
+
+<h5>使用技术栈:</h5>
+
+- React、Redux、Dva、Es6、Rollup、StoryBook、Antd、Antv、Websocket、Echart、Openlayers；
+
+
+
+
+#### MDR虚拟船舶交易所(PC) (前端)
+
+<h5>项目周期: </h5>
+
+- 2019 01 ～ 2019 11
+
+<h5>项目地址:</h5>
+
+- https://www.marinedigitalrepublic.com
+
+<h5>项目介绍：</h5>
+
+- 基于船舶的虚拟区块链官网
+
+<h5>主要任务:</h5>
+
+- 负责所有页面的开发
+
+<h5>使用技术栈:</h5>
+
+- React、Redux、Axios、Es6、Webpack、Gulp、React-Intl、Echarts、Express、Nodejs
+
+
+#### 聆悉平台(PC) (前端)
+
+<h5>项目周期:</h5>
+
+- 2018 07 ～ 2019 02
+
+<h5>项目地址:</h5>
+
+- 展示地址: https://lingxi.di-an.com
+
+<h5>项目介绍:</h5>
+
+- 基于流程控制的团队协作OA系统
+
+<h5>主要任务:</h5>
+
+- 主要负责流程控制模块的开发
+- 负责消息模块的开发
+
+<h5>项目亮点:</h5>
+
+- 多条件、多分支的流程控制动态表单实现
+
+<h5>项目难点：</h5>
+
+- 逻辑复杂 表单的收集、清空、编辑、删除
+- 驱动视图层的数据结构定义不合理导致反复修改
+
+<h5>使用技术栈：</h5>
+
+- ES6、React、Node.js、Redux、Dva、Antd；
+
+
+
+#### 参与租房管理系统的开发(前端)
+   <h5>项目周期: </h5>
+
+-  2017 09 ～ 2018 07
+
+<h5>主要任务:</h5>
+
+- 搭建 Wrapper组件层、View业务层、Sdk数据层、Umi生产环境
+- 参与了系统平台的 人员管理、渠道管理、工单管理模块的开发
+
+<h5>项目亮点：</h5>
+
+-  项目分层，通过Lernajs统一管理，单独运行开发，释放生产环境压力；
+
+  -  Wrapper组件层
+
+    1. 针对antd二次封装组件
+    2. 使用StoryBook-React作为组件层的Cli
+
+    3. 使用Rollup打包用于View
+
+  - View业务组件层
+    1. 封装携带业务场景的业务组件
+    2. 同样使用StoryBook作为Cli
+    3. 使用Rollup打包用于Page层
+  - Sdk数据层
+    1. 接入请求与服务端交互
+    2. 抽离Redux，单独运行调试，接入单元测试
+    3. 使用Rollup打包用于Prod生产层
+  - Prod生产层
+    1. 引入Page层的组件，拼装成完整的页面
+    1. Umijs作为Cli
+
+<h5>项目难点:</h5>
+
+-  Rollup配置
+- Redux+CoffeeScript初体验
+
+<h5>使用技术栈：</h5>
+
+- ES6; CoffeeScript；React；Redux ; antd; gulp; webpack; Umi；StoryBook；Lernajs
+
+  
+
+#### 参与租房管理系统的开发 (服务端)
+<h5>项目周期：</h5>
+
+- 2017 09 ～ 2018 07
+
+<h5>主要任务：</h5>
 
 - 开发需求相关的user、business、lock等微服务；
 
-    - user模块
-    	- 针对用户的相关行为的微服务；
-    
-    - business模块
-    	- 针对业务场景的微服务
-    
-    - lock模块
-    	- 针对智能门锁的微服务
-    
-    - 项目亮点
-    	- 基于CoffeeScript、Microjs的Restful风格的服务抽象化
-    		-	npm地址：https://www.npmjs.com/package/cfx.service.baseapi
-    		
-    - 项目难点
-    	- Docker初体验
-    
-    - 使用技术栈: ES6; coffeeScript； microjs； base64； nodejs；leancloud；
+<h5>项目亮点：</h5>
+
+- pm2守护进程
+- Docker日志导出
+
+-  基于CoffeeScript、Microjs的Restful风格的服务抽象化
+
+  npm地址：https://www.npmjs.com/package/cfx.service.baseapi
+
+<h5>项目难点：</h5>
+
+-  Docker、服务端初体验
+
+<h5>使用技术栈：</h5>
+
+-  ES6; coffeeScript； microjs； base64； nodejs；leancloud；
 
 
 ## 自我评价

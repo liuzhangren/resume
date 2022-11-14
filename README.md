@@ -41,13 +41,42 @@ GitHub:  https://github.com/liuzhangren
 > 遇到新技术会涌现额外的热情；
 
 ## 工作经历
+> 2022.6 ~ 2022.11.1 科锐国际（Thoughtworks）
+
 > 2021.06 ~2022.04  清北道远信息科技有限公司
 
-> 2020.01 ~ 2021.04 云峰核信（武汉）股份有限公司
-
-> 2017.09 ~ 2019.12 举手帮租（武汉）有限公司
+> 2017.09 ~ 2021.04 云峰核信（武汉）股份有限公司
 
 ## 项目经验
+#### siglus医药系统(前端)
+
+  <h5>项目周期: </h5>
+
+-  2022 06 ～ 2022.11
+
+<h5>项目描述:</h5>
+
+- 莫桑⽐克共和国医疗卫⽣系统
+
+<h5>主要任务：</h5>
+
+- 项⽬前端开发
+- 项目技术调研
+- 性能问题优化
+- 业务组件的封装
+
+<h5>项目难点：</h5>
+
+- 技术栈老旧，基于openlmis开源项目的基础构建
+- 不支持大部分npm库
+- 大数据量的前端PDF下载
+- docker内部的微前端实现
+- 社区代码的不易维护
+
+<h5>使用技术栈:</h5>
+
+  - angularjs 1.x、grunt、gulp、docker、jasmine 
+
 
   <h4>清北道远相关产品</h4>
 
@@ -195,79 +224,6 @@ GitHub:  https://github.com/liuzhangren
 <h5>使用技术栈：</h5>
 
 - ES6、React、Node.js、Redux、Dva、Antd；
-
-
-
-#### 参与租房管理系统的开发(前端)
-   <h5>项目周期: </h5>
-
--  2017 09 ～ 2018 07
-
-<h5>主要任务:</h5>
-
-- 搭建 Wrapper组件层、View业务层、Sdk数据层、Umi生产环境
-- 参与了系统平台的 人员管理、渠道管理、工单管理模块的开发
-
-<h5>项目亮点：</h5>
-
--  项目分层，通过Lernajs统一管理，单独运行开发，释放生产环境压力；
-
-  -  Wrapper组件层
-
-    1. 针对antd二次封装组件
-    2. 使用StoryBook-React作为组件层的Cli
-
-    3. 使用Rollup打包用于View
-
-  - View业务组件层
-    1. 封装携带业务场景的业务组件
-    2. 同样使用StoryBook作为Cli
-    3. 使用Rollup打包用于Page层
-  - Sdk数据层
-    1. 接入请求与服务端交互
-    2. 抽离Redux，单独运行调试，接入单元测试
-    3. 使用Rollup打包用于Prod生产层
-  - Prod生产层
-    1. 引入Page层的组件，拼装成完整的页面
-    1. Umijs作为Cli
-
-<h5>项目难点:</h5>
-
--  Rollup配置
-- Redux+CoffeeScript初体验
-
-<h5>使用技术栈：</h5>
-
-- ES6; CoffeeScript；React；Redux ; antd; gulp; webpack; Umi；StoryBook；Lernajs
-
-  
-
-#### 参与租房管理系统的开发 (服务端)
-<h5>项目周期：</h5>
-
-- 2017 09 ～ 2018 07
-
-<h5>主要任务：</h5>
-
-- 开发需求相关的user、business、lock等微服务；
-
-<h5>项目亮点：</h5>
-
-- pm2守护进程
-- Docker日志导出
-
--  基于CoffeeScript、Microjs的Restful风格的服务抽象化
-
-  npm地址：https://www.npmjs.com/package/cfx.service.baseapi
-
-<h5>项目难点：</h5>
-
--  Docker、服务端初体验
-
-<h5>使用技术栈：</h5>
-
--  ES6; coffeeScript； microjs； base64； nodejs；leancloud；
-
 
 ## 自我评价
   技术宅、苹果重度患者、自信乐观、适应性强、抗压！

@@ -73,7 +73,7 @@ GitHub:  https://github.com/liuzhangren
 
   <h5>技术栈：</h5>
 
-  - Vue、Vue-cli、TypeScript、lodash、webpack、websocket、Echarts、Vuex、elementUI
+  - Vue、Vue-cli、TypeScript、lodash、webpack、websocket、Echarts、Vuex、ElementUI
 
 #### 清北道远相关产品
 
@@ -191,7 +191,7 @@ GitHub:  https://github.com/liuzhangren
 
 <h5>使用技术栈：</h5>
 
-- ES6、Vue、Svg、Vue-cli、Vuex、elementUI；
+- ES6、Vue、Svg、Vue-cli、Vuex、ElementUI；
 
 ## 自我评价
   技术宅、苹果重度患者、自信乐观、适应性强、抗压！
